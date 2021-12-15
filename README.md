@@ -1,7 +1,6 @@
 # DApp template by AboveSnakes.eth
 
 ## A dApp template created in React that just needs minor changes
----
 ### ✅ Run these commands:
 
 - `npm install`
