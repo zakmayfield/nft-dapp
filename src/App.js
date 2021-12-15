@@ -11,7 +11,7 @@ const TWITTER_HANDLE = 'mayf_nft';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 // udate value to hold your marketplace route
 // i.e. OpenSea: https://testnets.opensea.io/assets
-const MARKETPLACE_LINK = 'https://testnets.opensea.io/assets';
+// const MARKETPLACE_LINK = 'https://testnets.opensea.io/assets';
 // Scan link like Etherscan or FTMscan
 const SCAN_LINK = 'https://testnet.ftmscan.com/tx/'
 // Total available NFTs available for minting
