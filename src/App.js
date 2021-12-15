@@ -13,7 +13,7 @@ const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 // i.e. OpenSea: https://testnets.opensea.io/assets
 // const MARKETPLACE_LINK = 'https://testnets.opensea.io/assets';
 // Scan link like Etherscan or FTMscan
-const SCAN_LINK = 'https://testnet.ftmscan.com/tx/'
+const SCAN_LINK = 'https://ftmscan.com/tx'
 // Total available NFTs available for minting
 const TOTAL_MINT_COUNT = 50;
 // update required Chain
