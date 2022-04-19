@@ -7,7 +7,7 @@ import Loader from 'react-loader-spinner'
 
 // Constants
 const PROJECT_NAME = 'Shape World';
-const TWITTER_HANDLE = 'mayf_nft';
+const TWITTER_HANDLE = 'zakmayfieldyo';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 // udate value to hold your marketplace route
 // i.e. OpenSea: https://testnets.opensea.io/assets
